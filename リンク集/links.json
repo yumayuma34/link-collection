@@ -1,7 +1,0 @@
-[
-  { "name": "Twitter", "url": "https://twitter.com/", "icon": "twitter.svg", "description": "短いつぶやきを投稿するSNS。フォローで更新を受け取れます。" },
-  { "name": "Instagram", "url": "https://www.instagram.com/", "icon": "instagram.svg", "description": "写真や動画をシェアするプラットフォーム。ビジュアル重視。" },
-  { "name": "Facebook", "url": "https://www.facebook.com/", "icon": "facebook.svg", "description": "友達やコミュニティとつながるソーシャルネットワーク。" },
-  { "name": "YouTube", "url": "https://www.youtube.com/", "icon": "youtube.svg", "description": "動画共有サービス。チャンネル登録で新着をチェック。" },
-  { "name": "GitHub", "url": "https://github.com/", "icon": "github.svg", "description": "ソースコードのホスティングとコラボレーション向けのプラットフォーム。" }
-]
