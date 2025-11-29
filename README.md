@@ -36,7 +36,7 @@
 
 **Python 3 を使う場合：**
 ```bash
-cd "C:\Users\yu34\Downloads\まんさん　リンク集"
+cd "ファイルの場所を指定"
 python -m http.server 8000
 ```
 
@@ -127,3 +127,4 @@ body.dark {
 ## ライセンス
 
 自由に使用・編集・配布してください。
+
